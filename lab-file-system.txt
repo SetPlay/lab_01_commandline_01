@@ -198,10 +198,8 @@ Otherwise skip this question/step!
 ==========
 19. Create the following directories, with each one inside each other.  The first one, pineapple, is the inner most:
 
-pineapple
-orange
-strawberry
-lemon
+mkdir -p pineapple/orange/strawberry/lemon
+
 
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
@@ -291,4 +289,4 @@ A path for folders
 ==========
 31. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
-/
+/Users/student/Downloads
